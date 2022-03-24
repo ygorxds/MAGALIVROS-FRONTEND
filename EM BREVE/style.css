@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+header{
+  background-color:white ;
+  height: 16rem;
+  margin-top: -1.5rem;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
+
+section{
+
+  color: white;
+  background-color: rgb(46, 45, 45);
+  border-radius: 1rem;
+  font: 1.2rem "Fira Sans", sans-serif;;
+
+}
+
+footer{
+  background-color:white ;
+  height: 10rem;
+  margin-top: 5rem;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+
+}
+i{
+  color: aliceblue;
+  margin-top: 0.3rem;
+}
+button{
+  height: 3rem;
+  color: black;
+  margin-top: 5rem;
+}
+

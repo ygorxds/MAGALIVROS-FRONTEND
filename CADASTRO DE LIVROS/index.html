@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Cadastro</title>
+</head>
+
+<body>
+
+  <header><img src="logo.png" alt="" srcset=""></header>
+  
+  <section>
+    
+    <div id="borda">
+      <h2>NOVO LIVRO</h2>
+
+      <form action="book" method="post">
+        <p>
+          Nome do Livro: <input type="text" name="name" id="name">
+        </p>
+        
+        <p>
+          Autor(a):<input type="text" name="autor" id="athor">
+        </p>
+        
+        <p>
+          link:<input type="text" name="link" id="link">
+        </p> 
+        
+        <input type="button" value="Cadastrar livro" onclick="criar()" >
+        <div id="res">...</div>
+      </form>
+    
+    </div>
+
+  </section>
+  <footer>
+    Copyrite © NerdDev
+
+    
+  </footer>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>

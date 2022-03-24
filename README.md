@@ -1,6 +1,8 @@
 # Magalivros-FrontEnd
 Esse é o Front-end da minha biblioteca de PDF,
 
+![logo](https://user-images.githubusercontent.com/80071063/159948465-082c5b8b-205e-4d56-a027-cd655ea19400.png)
+
 o backend você pode ver no Repositório: https://github.com/ygorxds/MAGALIVROS-BACKEND 
 esse front está sendo desenvolvido em HTML, CSS e Javascript sendo projetado visando responsividade. 
 
